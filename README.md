@@ -1,7 +1,7 @@
 # hotelReservationProject
 This Hotel Reservation Project was created in Java with MySQL and JBDA. This was a great exercise in my Bootcamp to create a full menu app that interacts with MySQL. 
 
-Please click the SRC file for Java code files. 
+Please click the src file for Java code files. 
  
 Here are the screenshots of the app: 
 
